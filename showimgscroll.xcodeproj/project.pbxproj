@@ -12,6 +12,7 @@
 		67B70A312320533500B181D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67B70A2F2320533500B181D5 /* Main.storyboard */; };
 		67B70A332320533600B181D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67B70A322320533600B181D5 /* Assets.xcassets */; };
 		67B70A362320533600B181D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67B70A342320533600B181D5 /* LaunchScreen.storyboard */; };
+		67B70A3E2320556800B181D5 /* Atl_as_png.png in Resources */ = {isa = PBXBuildFile; fileRef = 67B70A3D2320556800B181D5 /* Atl_as_png.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		67B70A322320533600B181D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		67B70A352320533600B181D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		67B70A372320533600B181D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67B70A3D2320556800B181D5 /* Atl_as_png.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Atl_as_png.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		67B70A2A2320533500B181D5 /* showimgscroll */ = {
 			isa = PBXGroup;
 			children = (
+				67B70A3D2320556800B181D5 /* Atl_as_png.png */,
 				67B70A2B2320533500B181D5 /* AppDelegate.swift */,
 				67B70A2D2320533500B181D5 /* ViewController.swift */,
 				67B70A2F2320533500B181D5 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67B70A362320533600B181D5 /* LaunchScreen.storyboard in Resources */,
+				67B70A3E2320556800B181D5 /* Atl_as_png.png in Resources */,
 				67B70A332320533600B181D5 /* Assets.xcassets in Resources */,
 				67B70A312320533500B181D5 /* Main.storyboard in Resources */,
 			);
